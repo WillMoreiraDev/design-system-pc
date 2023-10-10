@@ -22,6 +22,4 @@ export const colors = {
   red200: '#FFEBEB',
   red800: '#EB4141',
   red900: '#EB5757',
-
-  test: '#FFFFFF',
 }
