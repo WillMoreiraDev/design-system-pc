@@ -1,0 +1,10 @@
+export * from './components/Avatar'
+export * from './components/Button'
+export * from './components/TextInput'
+export * from './components/TextArea'
+export * from './components/Checkbox'
+export * from './components/Badge'
+export * from './components/Status'
+export * from './components/CardInfoCheck'
+
+export * from './styles'

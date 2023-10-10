@@ -1,0 +1,3 @@
+{
+  "extends": "@peoplecheck-ui/eslint-config"
+}
