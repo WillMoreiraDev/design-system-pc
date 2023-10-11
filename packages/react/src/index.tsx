@@ -6,5 +6,6 @@ export * from './components/Checkbox'
 export * from './components/Badge'
 export * from './components/Status'
 export * from './components/CardInfoCheck'
+export * from './components/Select'
 
 export * from './styles'
