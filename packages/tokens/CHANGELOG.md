@@ -1,5 +1,11 @@
 # @peoplecheck-ui/tokens
 
+## 1.3.0
+
+### Minor Changes
+
+- Insert new components
+
 ## 1.2.0
 
 ### Minor Changes
