@@ -9,5 +9,6 @@ export * from './components/CardInfoCheck'
 export * from './components/CardCountCheck'
 export * from './components/CardNotification'
 export * from './components/Select'
+export * from './components/Loading'
 
 export * from './styles'
